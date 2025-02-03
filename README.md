@@ -1,6 +1,6 @@
-# Quiz React App
+# Quiz React WebApp
 
-A simple quiz application built with React. This app allows users to take quizzes on various topics and view their results at the end.
+A simple quiz Webapplication built with React. This app allows users to take quizzes on various topics and view their results at the end.
 
 ## Features
 
